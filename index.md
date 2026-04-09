@@ -24,4 +24,4 @@ Smart Bookmark is a Chrome extension that captures webpage screenshots and autom
 - You can delete all stored data by removing the extension.
 
 ## Contact
-If you have any questions, please contact us at: [your email]
+If you have any questions, please contact us at: [alscksgh@gmail.com]
